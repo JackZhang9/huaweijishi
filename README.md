@@ -1,2 +1,2 @@
 # huaweijishi
-华为机试题OD岗
+华为机试题
